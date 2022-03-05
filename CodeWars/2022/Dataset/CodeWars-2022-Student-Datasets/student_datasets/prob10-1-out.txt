@@ -1,0 +1,4 @@
+Total left: 6
+Total right: 6
+Total pairs: 5
+Unbalanced

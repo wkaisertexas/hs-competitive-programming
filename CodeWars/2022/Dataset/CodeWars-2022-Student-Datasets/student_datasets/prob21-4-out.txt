@@ -1,0 +1,4 @@
+BRA 9 6
+AUS 4 0
+CRO 2 -1
+JPN 1 -5

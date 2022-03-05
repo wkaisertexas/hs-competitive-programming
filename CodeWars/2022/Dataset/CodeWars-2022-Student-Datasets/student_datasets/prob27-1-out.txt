@@ -1,0 +1,13 @@
+2022-01-15 06:34:53 from: EagleBank-123-987-1029 to: 0f8c2990-23e8920708dc amount:500.00GZC
+2022-01-21 11:40:50 from: 0f8c2990-23e8920708dc to: c1730fac-92cb6e9070f8 amount:200.00GZC
+2022-03-10 03:38:00 from: c1730fac-92cb6e9070f8 to: 9c5128fe-c3b56d0bbdf5 amount:200.00GZC
+2022-03-19 09:16:49 from: 0f8c2990-23e8920708dc to: 65b3db3e-8c98e3abc84f amount:100.00GZC
+2022-03-21 11:40:50 from: 0f8c2990-23e8920708dc to: a5390494-bdd8295c7246 amount:200.00GZC
+2022-03-27 10:25:04 from: a5390494-bdd8295c7246 to: fcb1af3b-06e024132bfb amount:200.00GZC
+2022-04-18 17:53:35 from: 65b3db3e-8c98e3abc84f to: fcb1af3b-06e024132bfb amount:100.00GZC
+2022-07-11 18:12:53 from: fcb1af3b-06e024132bfb to: 06ab75c9-bcb84ed2bf56 amount:300.00GZC
+2022-07-15 10:16:58 from: 06ab75c9-bcb84ed2bf56 to: EagleBank-123-987-1029 amount:362.82USD
+2022-07-22 13:13:42 from: 9c5128fe-c3b56d0bbdf5 to: 06ab75c9-bcb84ed2bf56 amount:200.00GZC
+2022-09-22 05:23:36 from: 06ab75c9-bcb84ed2bf56 to: EagleBank-123-987-1029 amount:137.16USD
+Total Out: 500.00USD
+Total In: 499.98USD

@@ -1,0 +1,12 @@
+26
+10
+xx2xxxxxxxxx2xx2xxxxxxxxx2
+x1xxxxxxxx2xxx1xxxxxxxx2xx
+xxxx1xxxx1xx1xxxx1xxxx1xx1
+xxxxx1xx1xx2xxxxxx1xx1xx2x
+xxx4xxx1xx1xxxxx3xxx2xx1xx
+xxxxxxxxxxxx2xxxxxxxxxxxx2
+x1xxxxxxxx1xxx1xxx2xxxxxxx
+xxxx1xxxx2xx1xxxx1xxxx2xx1
+xxxxx1xx1xx2xxxxxx1xx1xx2x
+xxx2xxx2xx1xxxxx2xxx2xx1xx

@@ -1,0 +1,4 @@
+GER 7 5
+USA 4 0
+POR 4 -3
+GHA 1 -2

@@ -1,0 +1,4 @@
+Total left: 22
+Total right: 22
+Total pairs: 22
+Balanced

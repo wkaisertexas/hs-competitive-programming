@@ -1,0 +1,14 @@
+20
+12
+--------------------
+-WWWWW-WWWWWWWWWWWW-
+-W---W--------------
+-W---WWWWWWW-WWWW-WW
+-W---W----------W-W-
+-W---W----WWWWWWW-W-
+-W-W-W----------W-W-
+DWTW-WWWWWWWWWW-----
+WWWW-WWW--------WWW-
+WWW----WWWWWWWWWW---
+WWWWW-------------WW
+WWWWWWWWWWWWWWWWWWWW

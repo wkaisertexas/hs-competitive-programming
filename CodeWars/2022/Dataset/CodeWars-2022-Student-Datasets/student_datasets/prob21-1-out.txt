@@ -1,0 +1,4 @@
+GER 6 4
+GHA 4 0
+AUS 4 -3
+SER 3 -1
